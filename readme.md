@@ -4,7 +4,6 @@
 * vibert is derived from vibert(https://github.com/rabeehk/vibert)
 * disentangle is derived from dib(https://github.com/PanZiqiAI/disentangled-information-bottleneck)
 * textfooler and deepwordbug is using implementation of textattack(https://github.com/QData/TextAttack)
-* asrs is using implementation of fibber(https://github.com/DAI-Lab/fibber)
 
 A big thanks to this project mentioned above!
 
